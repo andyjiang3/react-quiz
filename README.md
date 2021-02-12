@@ -3,14 +3,6 @@
 <img src="src/images/screen.png" title="Front Page">
 <img src="src/images/screen2.png" title="Front Page">
 
-
-
-
-
-
-
-
-
 ---
 
 Hey there! Welcome to the DP's web dev challenge~
