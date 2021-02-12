@@ -171,7 +171,7 @@ const Quiz = ({
     
 
     useEffect( () => {
-        console.log(responses)
+        //console.log(responses) for testing
     }, [responses])
 
     return (
